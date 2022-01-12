@@ -16,7 +16,8 @@ This app was created to use everyday! You can save new notes and edit ones you h
     Github Repo: https://github.com/Bmorrissey34/Note-Taker
     Live Heroku Link : https://floating-plateau-54396.herokuapp.com
     
-    ![NOTE TAKER](https://user-images.githubusercontent.com/88950762/149240234-a7dc756e-ce51-46fc-89f1-c544e675c7a4.png)
+
+![NOTE TAKER](https://user-images.githubusercontent.com/88950762/149240234-a7dc756e-ce51-46fc-89f1-c544e675c7a4.png)
 
 ## Test
 
